@@ -1,8 +1,8 @@
 ## Survey 
-We conducted a survey where 40 software developers participated. 
+We conducted a survey where 56 software developers participated. 
 
 ## Survey Question Set 
-In the zip file there are 105 samples that were used during the survey. In each sample file we have:
+In the zip file there are samples that were used during the survey. In each sample file we have:
 
     - Line1 - ID of sample
     - Line3 - corresponding representation
@@ -27,8 +27,8 @@ Finally, statistics about the previous experience on Software Engineering and Ja
 
 |                       | Less than 1 year  | 1-3 year  |3-5 year  |5-10 year |More than 10 years  |
 | --------------------- |-------------------|-----------|----------|----------|--------------------|
-| Software Development  | 0                 |   8       |  9       |  8       |  19                |
-| JavaScipt             | 6                 |   11      |  17      |  8       |   2                |  
+| Software Development  | 0                 |   11      |  12      |  11      |  22                |
+| JavaScipt             | 6                 |   14      |  19      |  12      |  5                 |  
 
 
 

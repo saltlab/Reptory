@@ -122,9 +122,3 @@ Framework:
 
 # How to calculate Accuracy and Rank?
 `python calculate_accuracy_and_rank.py test.correct test.buggy model.output`
-
-# Raw Results for Swapped Arguments, Wrong Binary Operator, Wrong Binary Operands.
-
-- [Table 5 - Swapped Arguments](./results/Swapped&#32;Arguments.xlsx)
-- [Table 6 - Wrong Binary Operator](./results/Wrong&#32;Binary&#32;Operator.xlsx)
-- [Table 7 - Wrong Binary Operands](./results/Wrong&#32;Binary&#32;Operands.xlsx)
